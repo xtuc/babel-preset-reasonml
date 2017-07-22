@@ -1,0 +1,22 @@
+{
+  "name": "babel-preset-reasonml",
+  "version": "1.0.0",
+  "description": "Babel preset for @reasonml",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xtuc/babel-preset-reasonml.git"
+  },
+  "keywords": [
+    "reasonml"
+  ],
+  "author": "Sven SAULEAU",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xtuc/babel-preset-reasonml/issues"
+  },
+  "homepage": "https://github.com/xtuc/babel-preset-reasonml#readme"
+}
